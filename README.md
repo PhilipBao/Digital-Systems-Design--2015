@@ -4,3 +4,4 @@ Implemented custom image compression revision in hardware.
 Compressed data from 320x240 pixel image were transferred to Altera DE2 board via UART interface and stored in SRAM. 
 The FPGA design would perform Dequantization, Inverse Signal Transform, Interpolation and Colorspace Conversion. 
 The output image can be displayed using VGA controller.
+System Verilog code is not posted here according to school policy.
